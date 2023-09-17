@@ -1,0 +1,10 @@
+bathtub	12
+bed	24
+chair	24
+desk	24
+dresser	24
+monitor	24
+night_stand	24
+sofa	24
+table	12
+toilet	24

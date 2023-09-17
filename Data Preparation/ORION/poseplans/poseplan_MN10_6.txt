@@ -1,0 +1,10 @@
+bathtub	3
+bed	6
+chair	6
+desk	6
+dresser	6
+monitor	6
+night_stand	6
+sofa	6
+table	3
+toilet	6
